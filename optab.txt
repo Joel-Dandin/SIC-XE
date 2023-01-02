@@ -12,7 +12,6 @@ LDS	6C
 ADDR	90
 STCH	54
 RSUB	4C
-LDB	68
 -                -
 
 
